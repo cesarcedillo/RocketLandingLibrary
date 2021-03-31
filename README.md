@@ -32,3 +32,10 @@ Please, write automated tests for the library
 
 Note: This exercise is prepared to be done in around 1 hour, however you can use as much
 time as you need.
+
+## Landing Area
+![Landing Area](https://github.com/cesarcedillo/RocketLandingLibrary/blob/main/Documentation/Assets/landingArea.png)
+
+## Landing Platform
+![Platform Area](https://github.com/cesarcedillo/RocketLandingLibrary/blob/main/Documentation/Assets/landingPlatform.png)
+
