@@ -1,0 +1,8 @@
+C:\Users\ccedillo\source\repos\RocketLandingLibrary\RocketLandingLibrary\RocketLandingLibrary\obj\Debug\netcoreapp3.1\RocketLandingLibrary.AssemblyInfoInputs.cache
+C:\Users\ccedillo\source\repos\RocketLandingLibrary\RocketLandingLibrary\RocketLandingLibrary\obj\Debug\netcoreapp3.1\RocketLandingLibrary.AssemblyInfo.cs
+C:\Users\ccedillo\source\repos\RocketLandingLibrary\RocketLandingLibrary\RocketLandingLibrary\obj\Debug\netcoreapp3.1\RocketLandingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ccedillo\source\repos\RocketLandingLibrary\RocketLandingLibrary\RocketLandingLibrary\bin\Debug\netcoreapp3.1\RocketLandingLibrary.deps.json
+C:\Users\ccedillo\source\repos\RocketLandingLibrary\RocketLandingLibrary\RocketLandingLibrary\bin\Debug\netcoreapp3.1\RocketLandingLibrary.dll
+C:\Users\ccedillo\source\repos\RocketLandingLibrary\RocketLandingLibrary\RocketLandingLibrary\bin\Debug\netcoreapp3.1\RocketLandingLibrary.pdb
+C:\Users\ccedillo\source\repos\RocketLandingLibrary\RocketLandingLibrary\RocketLandingLibrary\obj\Debug\netcoreapp3.1\RocketLandingLibrary.dll
+C:\Users\ccedillo\source\repos\RocketLandingLibrary\RocketLandingLibrary\RocketLandingLibrary\obj\Debug\netcoreapp3.1\RocketLandingLibrary.pdb
